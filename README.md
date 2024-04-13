@@ -1,5 +1,4 @@
-# <p style="text-align: justify;">ImageBind3D: Image as Binding Step for Controllable 3D Generation
-</p>
+# ImageBind3D: Image as Binding Step for Controllable 3D Generation
 
 ### [Project Page](https://imagebind-3d.github.io/imagebind3d/)  | [GitHub](https://github.com/ImageBind-3D/imagebind3d) | [Paper]()
 
