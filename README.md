@@ -25,6 +25,7 @@ Recent advancements in 3D generation have garnered considerable interest due to 
 <p align="center">
   <img width="98%" src="./img/01.png">
 </p>
+
 ### Composable guidance for controllable 3D generation
 <p align="center">
   <img width="98%" src="./img/02.png">
