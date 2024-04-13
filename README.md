@@ -23,11 +23,18 @@ Recent advancements in 3D generation have garnered considerable interest due to 
 
 ### Text-guidied 3D generation
 <p align="center">
+<figcaption style="text-align: justify;">
+We demonstrate the generative diversity and textual
+guidance of our method. Each row employs the text prompt
+with different samples of random noise as input.</figcaption>
   <img width="98%" src="./img/01.png">
 </p>
 
 ### Composable guidance for controllable 3D generation
 <p align="center">
+<figcaption style="text-align: justify;">
+We show the multi-conditional control capabilities of our method. Each column takes the text prompt and additional
+conditions as the model input.</figcaption>
   <img width="98%" src="./img/02.png">
 </p>
 
