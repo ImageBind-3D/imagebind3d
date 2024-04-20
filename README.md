@@ -98,12 +98,12 @@ conditions as the model input.</figcaption>
     <img width="100%" src="./img/skech1.png">
     <br>
   </div>
-  <div style="display: inline-block; width: 33%; margin-left: 2%;">
+  <div style="display: inline-block; width: 33%; margin-left: 2.5%;">
       <span style="display: block; text-align: center;">A red car</span>
     <img width="100%" src="./img/004.gif">
     <br>
   </div>
-  <div style="display: inline-block; width: 33%; margin-left: 2%;">
+  <div style="display: inline-block; width: 33%; margin-left: 2.5%;">
       <span style="display: block; text-align: center;">A white car</span>
     <img width="100%" src="./img/006.gif">
     <br>
