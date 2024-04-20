@@ -114,11 +114,11 @@ conditions as the model input.</figcaption>
     <img width="100%" src="img/sketh2.png">
     <br>
   </div>
-  <div style="display: inline-block; width: 33%; margin-left: 2%;">
+  <div style="display: inline-block; width: 33%; margin-left: 2.5%;">
     <img width="100%" src="./img/005.gif">
     <br>
   </div>
-  <div style="display: inline-block; width: 33%; margin-left: 2%;">
+  <div style="display: inline-block; width: 33%; margin-left: 2.5%;">
     <img width="100%" src="./img/007.gif">
     <br>
   </div>
