@@ -93,7 +93,7 @@ conditions as the model input.</figcaption>
 </p>
 
 <p align="center"> 
-  <div style="display: inline-block; width: 28%;">
+  <div style="display: inline-block; width: 27%;">
    <span style="display: block; text-align: center;">Input visual prompts </span>
     <img width="100%" src="./img/skech1.png">
     <br>
@@ -110,7 +110,7 @@ conditions as the model input.</figcaption>
   </div>
 </p>
 <p align="center">
-  <div style="display: inline-block; width: 28%;">
+  <div style="display: inline-block; width: 27%;">
     <img width="100%" src="img/sketh2.png">
     <br>
   </div>
