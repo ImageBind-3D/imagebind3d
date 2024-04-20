@@ -10,32 +10,32 @@ We propose ImageBind3D, a simple but effective approach that can offer guidance 
 </figcaption>
 
 <p align="center">
-  <div style="display: inline-block; width: 30%;">
+  <div style="display: inline-block; width: 31%;">
     <span style="display: block; text-align: center;">A red sedan with sports style  </span>
     <img width="100%" src="./img/001.png">
     <br>
   </div>
-  <div style="display: inline-block; width: 30%; margin-left: 2%;">
+  <div style="display: inline-block; width: 31%; margin-left: 2%;">
   <span style="display: block; text-align: center;">A yellow backreast chair</span>
     <img width="100%" src="./img/002.png">
     <br>
   </div>
-  <div style="display: inline-block; width: 30%; margin-left: 2%;">
+  <div style="display: inline-block; width: 31%; margin-left: 2%;">
   <span style="display: block; text-align: center;">A wooden office table</span>
     <img width="100%" src="./img/003.png">
     <br>
   </div>
 </p>
 <p align="center">
-  <div style="display: inline-block; width: 30%;">
+  <div style="display: inline-block; width: 31%;">
     <img width="100%" src="./img/001.gif">    
     <br>
   </div>
-  <div style="display: inline-block; width: 30%; margin-left: 2%;">
+  <div style="display: inline-block; width: 31%; margin-left: 2%;">
     <img width="100%" src="./img/002.gif">    
     <br>
   </div>
-  <div style="display: inline-block; width: 30%; margin-left: 2%;">
+  <div style="display: inline-block; width: 31%; margin-left: 2%;">
     <img width="100%" src="./img/003.gif">    
     <br>
   </div>
