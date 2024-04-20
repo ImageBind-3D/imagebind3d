@@ -131,11 +131,11 @@ conditions as the model input.</figcaption>
     <img width="100%" src="img/D8.png">
     <br>
   </div>
-  <div style="display: inline-block; width: 24%; margin-left: 3%;">
+  <div style="display: inline-block; width: 24%; margin-left: 2%;">
     <img width="100%" src="./img/08.gif">
     <br>
   </div>
-  <div style="display: inline-block; width: 20%; margin-left: 3%;">
+  <div style="display: inline-block; width: 22%; margin-left: 2%;">
   <span style="display: block; text-align: center;"> A backrest chair
  </span>
     <img width="100%" src="./img/D9.png">
