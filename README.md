@@ -1,6 +1,6 @@
 # ImageBind3D: Image as Binding Step for Controllable 3D Generation
 
-### [Project Page](https://imagebind-3d.github.io/imagebind3d/)  | [GitHub](https://github.com/ImageBind-3D/imagebind3d) | [Paper]()
+### [Project Page](https://imagebind-3d.github.io/imagebind3d/)  | [GitHub]() | [Paper]()
 
 <p align="center" style="text-align:center;">
   <img width="98%" src="./img/teaser.png">
